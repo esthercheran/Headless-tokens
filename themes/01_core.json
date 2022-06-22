@@ -1383,6 +1383,10 @@
     "3800": {
       "value": "384",
       "type": "sizing"
+    },
+    "new": {
+      "value": "100",
+      "type": "sizing"
     }
   },
   "space": {
