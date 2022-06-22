@@ -647,6 +647,10 @@
     "new": {
       "value": "{size.100}",
       "type": "sizing"
+    },
+    "newer": {
+      "value": "{size.400}",
+      "type": "sizing"
     }
   }
 }
