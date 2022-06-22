@@ -651,6 +651,10 @@
     "newer": {
       "value": "{size.400}",
       "type": "sizing"
+    },
+    "newest": {
+      "value": "{size.1400}",
+      "type": "sizing"
     }
   }
 }
