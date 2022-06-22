@@ -1387,6 +1387,10 @@
     "new": {
       "value": "100",
       "type": "sizing"
+    },
+    "newer": {
+      "value": "200",
+      "type": "sizing"
     }
   },
   "space": {
