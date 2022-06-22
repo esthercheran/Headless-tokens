@@ -1,0 +1,40 @@
+{
+  "code": {
+    "font-family": {
+      "value": "{semantic.font-family.typography.mono}",
+      "type": "fontFamilies"
+    },
+    "font-weight": {
+      "value": "{semantic.font-weight.typography.regular}",
+      "type": "fontWeights"
+    },
+    "line-height": {
+      "value": "{semantic.line-height.typography.code}",
+      "type": "lineHeights"
+    },
+    "s": {
+      "font-size": {
+        "value": "{semantic.font-size.typography.code.s}",
+        "type": "fontSizes"
+      }
+    },
+    "m": {
+      "font-size": {
+        "value": "{semantic.font-size.typography.code.m}",
+        "type": "fontSizes"
+      }
+    },
+    "l": {
+      "font-size": {
+        "value": "{semantic.font-size.typography.code.l}",
+        "type": "fontSizes"
+      }
+    },
+    "xl": {
+      "font-size": {
+        "value": "{semantic.font-size.typography.code.xl}",
+        "type": "fontSizes"
+      }
+    }
+  }
+}

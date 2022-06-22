@@ -1,0 +1,62 @@
+{
+  "detail": {
+    "s": {
+      "font-size": {
+        "value": "{semantic.font-size.typography.detail.s}",
+        "type": "fontSizes"
+      }
+    },
+    "m": {
+      "font-size": {
+        "value": "{semantic.font-size.typography.detail.m}",
+        "type": "fontSizes"
+      }
+    },
+    "l": {
+      "font-size": {
+        "value": "{semantic.font-size.typography.detail.l}",
+        "type": "fontSizes"
+      }
+    },
+    "xl": {
+      "font-size": {
+        "value": "{semantic.font-size.typography.detail.xl}",
+        "type": "fontSizes"
+      }
+    },
+    "serif": {
+      "font-family": {
+        "value": "{semantic.font-family.typography.serif}",
+        "type": "fontFamilies"
+      }
+    },
+    "sans-serif": {
+      "font-family": {
+        "value": "{semantic.font-family.typography.sans-serif}",
+        "type": "fontFamilies"
+      }
+    },
+    "mono": {
+      "font-family": {
+        "value": "{semantic.font-family.typography.mono}",
+        "type": "fontFamilies"
+      }
+    },
+    "light": {
+      "font-weight": {
+        "value": "{semantic.font-weight.typography.light}",
+        "type": "fontWeights"
+      }
+    },
+    "regular": {
+      "font-weight": {
+        "value": "{semantic.font-weight.typography.regular}",
+        "type": "fontWeights"
+      }
+    },
+    "line-height": {
+      "value": "{semantic.line-height.typography.detail}",
+      "type": "lineHeights"
+    }
+  }
+}

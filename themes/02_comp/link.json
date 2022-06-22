@@ -1,0 +1,70 @@
+{
+  "link": {
+    "primary": {
+      "default": {
+        "font-color": {
+          "value": "{semantic.color.actions.cta.default.border-color}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "font-color": {
+          "value": "{semantic.color.actions.cta.hover.border-color}",
+          "type": "color"
+        }
+      },
+      "visited": {
+        "font-color": {
+          "value": "{semantic.color.actions.cta.active.border-color}",
+          "type": "color"
+        }
+      }
+    },
+    "secondary": {
+      "default": {
+        "font-color": {
+          "value": "{semantic.color.actions.secondary.default.text-color}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "font-color": {
+          "value": "{semantic.color.actions.secondary.hover.text-color}",
+          "type": "color"
+        }
+      },
+      "visited": {
+        "font-color": {
+          "value": "{semantic.color.actions.secondary.active.border-color}",
+          "type": "color"
+        }
+      }
+    },
+    "on-background": {
+      "default": {
+        "font-color": {
+          "value": "{semantic.fg.on-accent}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "font-color": {
+          "value": "{semantic.fg.on-accent}",
+          "type": "color"
+        }
+      },
+      "visited": {
+        "font-color": {
+          "value": "{semantic.fg.on-accent}",
+          "type": "color"
+        }
+      }
+    },
+    "disabled": {
+      "font-color": {
+        "value": "{semantic.fg.on-disabled}",
+        "type": "color"
+      }
+    }
+  }
+}
