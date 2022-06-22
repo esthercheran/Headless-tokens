@@ -1395,6 +1395,10 @@
     "newest": {
       "value": "300",
       "type": "sizing"
+    },
+    "xtra": {
+      "value": "400",
+      "type": "sizing"
     }
   },
   "space": {
