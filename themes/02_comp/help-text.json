@@ -1,0 +1,86 @@
+{
+  "help-text": {
+    "default": {
+      "text-color": {
+        "value": "{semantic.color.inputs.default.text-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.inputs.default.icon-color}",
+        "type": "color"
+      }
+    },
+    "error": {
+      "text-color": {
+        "value": "{semantic.color.inputs.error.text-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.inputs.error.icon-color}",
+        "type": "color"
+      }
+    },
+    "disabled": {
+      "text-color": {
+        "value": "{semantic.color.inputs.disabled.text-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.inputs.disabled.icon-color}",
+        "type": "color"
+      }
+    },
+    "s": {
+      "text-size": {
+        "value": "{semantic.font-size.inputs.s}",
+        "type": "fontSizes"
+      },
+      "icon-size": {
+        "value": "{semantic.sizing.inputs.icon-size.small}",
+        "type": "sizing"
+      }
+    },
+    "m": {
+      "text-size": {
+        "value": "{semantic.font-size.inputs.m}",
+        "type": "fontSizes"
+      },
+      "icon-size": {
+        "value": "{semantic.sizing.inputs.icon-size.medium}",
+        "type": "sizing"
+      }
+    },
+    "l": {
+      "text-size": {
+        "value": "{semantic.font-size.inputs.l}",
+        "type": "fontSizes"
+      },
+      "icon-size": {
+        "value": "{semantic.sizing.inputs.icon-size.large}",
+        "type": "sizing"
+      }
+    },
+    "xl": {
+      "text-size": {
+        "value": "{semantic.font-size.inputs.xl}",
+        "type": "fontSizes"
+      },
+      "icon-size": {
+        "value": "{semantic.sizing.inputs.icon-size.extra-large}",
+        "type": "sizing"
+      }
+    },
+    "font-family": {
+      "value": "{semantic.font-family.inputs}",
+      "type": "fontFamilies"
+    },
+    "space-between": {
+      "value": "{semantic.spacing.inputs.space-between}",
+      "type": "spacing"
+    },
+    "font-weight": {
+      "value": "{semantic.font-weight.inputs}",
+      "type": "fontWeights"
+    }
+  }
+}

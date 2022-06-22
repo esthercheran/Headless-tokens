@@ -1,0 +1,52 @@
+{
+  "semantic": {
+    "fg": {
+      "default": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.gray.400}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.gray.500}",
+        "type": "color"
+      },
+      "on-accent": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      },
+      "on-disabled": {
+        "value": "{color.NeutralGray.400}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.gray.300}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{semantic.cta.default}",
+        "type": "color"
+      }
+    },
+    "bg": {
+      "surface": {
+        "value": "#222222",
+        "type": "color"
+      },
+      "muted": {
+        "value": "#222222",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "#010707",
+        "type": "color"
+      },
+      "canvas": {
+        "value": "{color.neutrals.black}",
+        "type": "color"
+      }
+    }
+  }
+}

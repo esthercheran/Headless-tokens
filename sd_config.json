@@ -1,0 +1,7 @@
+{
+  "tokenSetsDirPath": "themes",
+  "tokenSetsPath": "themes/**/*.json",
+  "tokenSetsThemeMetaPath": "./themes/$themes.json",
+  "owner": "brandcodeapp",
+  "repo": "headless-ds-tokens"
+}

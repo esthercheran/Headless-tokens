@@ -1,0 +1,48 @@
+{
+  "field-label": {
+    "s": {
+      "text-size": {
+        "value": "{semantic.font-size.inputs.s}",
+        "type": "fontSizes"
+      }
+    },
+    "m": {
+      "text-size": {
+        "value": "{semantic.font-size.inputs.m}",
+        "type": "fontSizes"
+      }
+    },
+    "l": {
+      "text-size": {
+        "value": "{semantic.font-size.inputs.l}",
+        "type": "fontSizes"
+      }
+    },
+    "xl": {
+      "text-size": {
+        "value": "{semantic.font-size.inputs.xl}",
+        "type": "fontSizes"
+      }
+    },
+    "font-family": {
+      "value": "{semantic.font-family.inputs}",
+      "type": "fontFamilies"
+    },
+    "font-weight": {
+      "value": "{semantic.font-weight.inputs}",
+      "type": "fontWeights"
+    },
+    "disabled": {
+      "text-color": {
+        "value": "{semantic.color.inputs.disabled.text-color}",
+        "type": "color"
+      }
+    },
+    "default": {
+      "text-color": {
+        "value": "{semantic.color.inputs.default.text-color}",
+        "type": "color"
+      }
+    }
+  }
+}

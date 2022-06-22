@@ -1,0 +1,56 @@
+{
+  "semantic": {
+    "fg": {
+      "default": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.slate.300}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.gray.500}",
+        "type": "color"
+      },
+      "on-accent": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      },
+      "on-disabled": {
+        "value": "{color.gray.500}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.gray.300}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{semantic.cta.default}",
+        "type": "color"
+      },
+      "productBrand": {
+        "value": "#23c430",
+        "type": "color"
+      }
+    },
+    "bg": {
+      "surface": {
+        "value": "#323232",
+        "type": "color"
+      },
+      "muted": {
+        "value": "#1A1A1A",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "#1A1A1A",
+        "type": "color"
+      },
+      "canvas": {
+        "value": "#252525",
+        "type": "color"
+      }
+    }
+  }
+}

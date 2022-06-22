@@ -1,0 +1,34 @@
+{
+  "divider": {
+    "default": {
+      "color": {
+        "value": "{semantic.color.container.default}",
+        "type": "color"
+      }
+    },
+    "on-background": {
+      "color": {
+        "value": "{semantic.color.container.on-background}",
+        "type": "color"
+      }
+    },
+    "small": {
+      "width": {
+        "value": "{semantic.sizing.container.small}",
+        "type": "sizing"
+      }
+    },
+    "medium": {
+      "width": {
+        "value": "{semantic.sizing.container.medium}",
+        "type": "sizing"
+      }
+    },
+    "large": {
+      "width": {
+        "value": "{semantic.sizing.container.large}",
+        "type": "sizing"
+      }
+    }
+  }
+}

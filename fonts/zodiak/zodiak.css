@@ -1,0 +1,202 @@
+/**
+ * @license
+ *
+ * Font Family: Zodiak
+ * Designed by: Jérémie Hornus, Gaetan Baehr, Jean-Baptiste Morizot, Alisa Nowak, Theo Guillard
+ * URL: https://www.fontshare.com/fonts/zodiak
+ * © 2022 Indian Type Foundry
+ *
+ * Font Styles:
+ * Zodiak Variable(Variable font)
+ * Zodiak Variable Italic(Variable font)
+ * Zodiak Thin
+ * Zodiak Thin Italic
+ * Zodiak Light
+ * Zodiak Light Italic
+ * Zodiak Regular
+ * Zodiak Italic
+ * Zodiak Bold
+ * Zodiak Bold Italic
+ * Zodiak Extrabold         
+ * Zodiak Extrabold Italic
+ * Zodiak Black
+ * Zodiak Black Italic
+ *
+*/
+
+
+/**
+* This is a variable font
+* You can controll variable axes as shown below:
+* font-variation-settings: 'wght' 900.0;
+*
+* available axes:
+
+* 'wght' (range from 100.0 to 900.0)
+
+*/
+
+@font-face {
+  font-family: 'Zodiak Variable';
+  src: url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Variable.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Variable.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Variable.ttf') format('truetype');
+       font-weight: 100 900;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+/**
+* This is a variable font
+* You can controll variable axes as shown below:
+* font-variation-settings: 'wght' 900.0;
+*
+* available axes:
+
+* 'wght' (range from 100.0 to 900.0)
+
+*/
+
+@font-face {
+  font-family: 'Zodiak-VariableItalic';
+  src: url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-VariableItalic.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-VariableItalic.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-VariableItalic.ttf') format('truetype');
+       font-weight: 100 900;
+       font-display: swap;
+       font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Zodiak-Thin';
+  src: url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Thin.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Thin.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Thin.ttf') format('truetype');
+       font-weight: 100;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Zodiak-ThinItalic';
+  src: url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-ThinItalic.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-ThinItalic.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-ThinItalic.ttf') format('truetype');
+       font-weight: 100;
+       font-display: swap;
+       font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Zodiak-Light';
+  src: url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Light.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Light.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Light.ttf') format('truetype');
+       font-weight: 300;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Zodiak-LightItalic';
+  src: url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-LightItalic.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-LightItalic.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-LightItalic.ttf') format('truetype');
+       font-weight: 300;
+       font-display: swap;
+       font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Zodiak-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Regular.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Regular.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Regular.ttf') format('truetype');
+       font-weight: 400;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Zodiak-Italic';
+  src: url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Italic.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Italic.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Italic.ttf') format('truetype');
+       font-weight: 400;
+       font-display: swap;
+       font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Zodiak-Bold';
+  src: url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Bold.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Bold.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Bold.ttf') format('truetype');
+       font-weight: 700;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Zodiak-BoldItalic';
+  src: url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-BoldItalic.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-BoldItalic.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-BoldItalic.ttf') format('truetype');
+       font-weight: 700;
+       font-display: swap;
+       font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Zodiak-Extrabold';
+  src: url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Extrabold.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Extrabold.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Extrabold.ttf') format('truetype');
+       font-weight: 800;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Zodiak-ExtraboldItalic';
+  src: url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-ExtraboldItalic.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-ExtraboldItalic.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-ExtraboldItalic.ttf') format('truetype');
+       font-weight: 800;
+       font-display: swap;
+       font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Zodiak-Black';
+  src: url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Black.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Black.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-Black.ttf') format('truetype');
+       font-weight: 900;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Zodiak-BlackItalic';
+  src: url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-BlackItalic.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-BlackItalic.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/brandcodeapp/bc-design-tokens@main/fonts/zodiak/Zodiak-BlackItalic.ttf') format('truetype');
+       font-weight: 900;
+       font-display: swap;
+       font-style: italic;
+}
+

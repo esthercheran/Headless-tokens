@@ -1,0 +1,192 @@
+{
+  "font-family": {
+    "serif": {
+      "value": "Zodiak Variable",
+      "type": "fontFamilies"
+    },
+    "sans-serif": {
+      "value": "Zodiak Variable",
+      "type": "fontFamilies"
+    },
+    "mono": {
+      "value": "Zodiak Variable",
+      "type": "fontFamilies"
+    }
+  },
+  "font-weight": {
+    "semiBold": {
+      "value": "Bold",
+      "type": "fontWeights",
+      "default": "600"
+    }
+  },
+  "semantic": {
+    "fg": {
+      "default": {
+        "value": "{color.NeutralGray.600}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.NeutralGray.500}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.NeutralGray.400}",
+        "type": "color"
+      },
+      "on-accent": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      },
+      "on-disabled": {
+        "value": "{color.NeutralGray.400}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.NeutralGray.300}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{semantic.cta.default}",
+        "type": "color"
+      }
+    },
+    "bg": {
+      "surface": {
+        "value": "{color.stone.100}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.stone.200}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "#F2F3F2",
+        "type": "color"
+      },
+      "canvas": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      }
+    },
+    "cta": {
+      "default": {
+        "value": "{color.NeutralGray.700}",
+        "type": "color"
+      },
+      "emphasised": {
+        "value": "{color.NeutralGray.700}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.NeutralGray.500}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.NeutralGray.200}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.gray.400}",
+        "type": "color"
+      }
+    },
+    "primary": {
+      "default": {
+        "value": "{color.NeutralGray.600}",
+        "type": "color"
+      },
+      "emphasised": {
+        "value": "{color.NeutralGray.700}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.NeutralGray.500}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.NeutralGray.200}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.gray.400}",
+        "type": "color"
+      }
+    },
+    "ui": {
+      "shadow": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "0",
+            "color": "hsla(0, 0%, 0%, 0)",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      }
+    },
+    "inputs": {
+      "background": {
+        "value": "{semantic.bg.muted}",
+        "type": "color"
+      }
+    },
+    "border-radius": {
+      "actions": {
+        "value": "{border-radius.0}",
+        "type": "borderRadius"
+      },
+      "inputs": {
+        "value": "{border-radius.0}",
+        "type": "borderRadius"
+      },
+      "status": {
+        "value": "{semantic.border.radius.small}",
+        "type": "borderRadius"
+      },
+      "ui-card": {
+        "value": "{border-radius.0}",
+        "type": "borderRadius"
+      },
+      "ui": {
+        "value": "{border-radius.0}",
+        "type": "borderRadius"
+      }
+    },
+    "border-width": {
+      "actions": {
+        "value": "{border-width.1}",
+        "type": "borderWidth"
+      },
+      "inputs": {
+        "value": "{border-width.1}",
+        "type": "borderWidth"
+      }
+    },
+    "color": {
+      "actions": {
+        "primary": {
+          "default": {
+            "text-color": {
+              "value": "{semantic.fg.default}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    },
+    "spacing": {
+      "ui": {
+        "m": {
+          "space-between": {
+            "value": "{space.150}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  }
+}

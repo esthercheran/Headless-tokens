@@ -1,0 +1,170 @@
+{
+  "checkbox": {
+    "label": {
+      "font-family": {
+        "value": "{semantic.font-family.inputs}",
+        "type": "fontFamilies"
+      },
+      "font-size": {
+        "value": "{semantic.font-size.inputs.m}",
+        "type": "fontSizes"
+      },
+      "font-weight": {
+        "value": "{semantic.font-weight.inputs}",
+        "type": "fontWeights"
+      },
+      "default": {
+        "font-color": {
+          "value": "{semantic.color.inputs.default.text-color}",
+          "type": "color"
+        }
+      },
+      "error": {
+        "font-color": {
+          "value": "{semantic.color.inputs.error.text-color}",
+          "type": "color"
+        }
+      }
+    },
+    "width": {
+      "value": "{size.225}",
+      "type": "sizing"
+    },
+    "height": {
+      "value": "{size.225}",
+      "type": "sizing"
+    },
+    "border-radius": {
+      "value": "{semantic.border-radius.inputs}",
+      "type": "borderRadius"
+    },
+    "border-width": {
+      "value": "{semantic.border-width.inputs}",
+      "type": "borderWidth"
+    },
+    "space-between": {
+      "value": "{semantic.spacing.inputs.space-between}",
+      "type": "spacing"
+    },
+    "unselected": {
+      "default": {
+        "background-color": {
+          "value": "{semantic.color.inputs.default.background-color}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.inputs.default.border-color}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "background-color": {
+          "value": "{semantic.color.inputs.hover.background-color}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.inputs.hover.border-color}",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "background-color": {
+          "value": "{semantic.color.inputs.disabled.background-color}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.inputs.disabled.border-color}",
+          "type": "color"
+        }
+      },
+      "error": {
+        "background-color": {
+          "value": "{semantic.color.inputs.error.background-color}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.inputs.error.border-color}",
+          "type": "color"
+        }
+      }
+    },
+    "selected": {
+      "default": {
+        "background-color": {
+          "value": "{semantic.color.inputs.selected.default.border-color}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.inputs.selected.default.border-color}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "background-color": {
+          "value": "{semantic.color.inputs.selected.hover.border-color}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.inputs.selected.hover.border-color}",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "background-color": {
+          "value": "{semantic.color.inputs.disabled.background-color}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.inputs.disabled.background-color}",
+          "type": "color"
+        }
+      },
+      "error": {
+        "background-color": {
+          "value": "{semantic.color.inputs.error.border-color}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.inputs.error.border-color}",
+          "type": "color"
+        }
+      }
+    },
+    "checkmark": {
+      "width": {
+        "value": "{size.200}",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "{size.200}",
+        "type": "sizing"
+      },
+      "selected": {
+        "default": {
+          "icon-color": {
+            "value": "{semantic.color.inputs.selected.default.background-color}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "icon-color": {
+            "value": "{semantic.color.inputs.selected.default.background-color}",
+            "type": "color"
+          }
+        },
+        "disabled": {
+          "icon-color": {
+            "value": "{semantic.color.inputs.disabled.icon-color}",
+            "type": "color"
+          }
+        },
+        "error": {
+          "icon-color": {
+            "value": "{semantic.color.inputs.error.background-color}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}

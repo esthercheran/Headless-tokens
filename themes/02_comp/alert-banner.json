@@ -1,0 +1,128 @@
+{
+  "alert-banner": {
+    "width": {
+      "value": "{semantic.sizing.feedback.width}",
+      "type": "sizing"
+    },
+    "padding-top": {
+      "value": "{semantic.spacing.feedback.padding-top}",
+      "type": "spacing"
+    },
+    "padding-right": {
+      "value": "{semantic.spacing.feedback.padding-right}",
+      "type": "spacing"
+    },
+    "padding-bottom": {
+      "value": "{semantic.spacing.feedback.padding-bottom}",
+      "type": "spacing"
+    },
+    "padding-left": {
+      "value": "{semantic.spacing.feedback.padding-left}",
+      "type": "spacing"
+    },
+    "border-width": {
+      "value": "{semantic.border-width.feedback}",
+      "type": "borderWidth"
+    },
+    "font-family": {
+      "value": "{semantic.font-family.feedback}",
+      "type": "fontFamilies"
+    },
+    "title": {
+      "font-weight": {
+        "value": "{semantic.font-weight.feedback.bold}",
+        "type": "fontWeights"
+      },
+      "font-size": {
+        "value": "{semantic.font-size.feedback.m}",
+        "type": "fontSizes"
+      }
+    },
+    "body": {
+      "font-weight": {
+        "value": "{semantic.font-weight.feedback.regular}",
+        "type": "fontWeights"
+      },
+      "font-size": {
+        "value": "{semantic.font-size.feedback.s}",
+        "type": "fontSizes"
+      }
+    },
+    "icon-size": {
+      "value": "{semantic.sizing.feedback.icon-size}",
+      "type": "sizing"
+    },
+    "info": {
+      "background-color": {
+        "value": "{semantic.color.feedback.info.background-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.feedback.info.icon-color}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.feedback.info.border-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.typography.default}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "border-color": {
+        "value": "{semantic.color.feedback.success.border-color}",
+        "type": "color"
+      },
+      "background-color": {
+        "value": "{semantic.color.feedback.success.background-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.feedback.success.icon-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.typography.default}",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "border-color": {
+        "value": "{semantic.color.feedback.warning.border-color}",
+        "type": "color"
+      },
+      "background-color": {
+        "value": "{semantic.color.feedback.warning.background-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.feedback.warning.icon-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.typography.default}",
+        "type": "color"
+      }
+    },
+    "error": {
+      "border-color": {
+        "value": "{semantic.color.feedback.error.border-color}",
+        "type": "color"
+      },
+      "background-color": {
+        "value": "{semantic.color.feedback.error.background-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.feedback.error.icon-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.typography.default}",
+        "type": "color"
+      }
+    }
+  }
+}

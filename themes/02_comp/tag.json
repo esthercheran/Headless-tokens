@@ -1,0 +1,436 @@
+{
+  "tag": {
+    "font-family": {
+      "value": "{semantic.font-family.status}",
+      "type": "fontFamilies"
+    },
+    "font-weight": {
+      "value": "{semantic.font-weight.status}",
+      "type": "fontWeights"
+    },
+    "border-radius": {
+      "value": "{semantic.border-radius.status}",
+      "type": "borderRadius"
+    },
+    "space-between": {
+      "value": "{semantic.spacing.status.space-between}",
+      "type": "spacing"
+    },
+    "solid": {
+      "info": {
+        "background-color": {
+          "value": "{semantic.color.status.info.border-color}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        }
+      },
+      "success": {
+        "background-color": {
+          "value": "{semantic.color.status.success.border-color}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "background-color": {
+          "value": "{semantic.color.status.warning.border-color}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        }
+      },
+      "error": {
+        "background-color": {
+          "value": "{semantic.color.status.error.border-color}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        }
+      },
+      "neutral": {
+        "background-color": {
+          "value": "{semantic.color.status.neutral.border-color}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        }
+      }
+    },
+    "inverted": {
+      "info": {
+        "background-color": {
+          "value": "{semantic.color.status.info.background-color}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.status.info.text-color}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.status.info.text-color}",
+          "type": "color"
+        }
+      },
+      "success": {
+        "background-color": {
+          "value": "{semantic.color.status.success.background-color}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.status.success.text-color}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.status.success.text-color}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "background-color": {
+          "value": "{semantic.color.status.warning.background-color}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.status.warning.text-color}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.status.warning.text-color}",
+          "type": "color"
+        }
+      },
+      "error": {
+        "background-color": {
+          "value": "{semantic.color.status.error.background-color}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.status.error.text-color}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.status.error.text-color}",
+          "type": "color"
+        }
+      },
+      "neutral": {
+        "background-color": {
+          "value": "{semantic.color.status.neutral.background-color}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.status.error.text-color}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.status.error.text-color}",
+          "type": "color"
+        }
+      }
+    },
+    "outlined": {
+      "info": {
+        "border-color": {
+          "value": "{semantic.color.status.info.border-color}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.status.info.text-color}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.status.info.text-color}",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "{color.neutrals.transparent}",
+          "type": "color"
+        }
+      },
+      "sucess": {
+        "border-color": {
+          "value": "{semantic.color.status.success.border-color}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.status.success.text-color}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.status.success.text-color}",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "{color.neutrals.transparent}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "border-color": {
+          "value": "{semantic.color.status.warning.border-color}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.status.warning.text-color}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.status.warning.text-color}",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "{color.neutrals.transparent}",
+          "type": "color"
+        }
+      },
+      "error": {
+        "border-color": {
+          "value": "{semantic.color.status.error.border-color}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.status.error.text-color}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.status.error.text-color}",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "{color.neutrals.transparent}",
+          "type": "color"
+        }
+      },
+      "neutral": {
+        "border-color": {
+          "value": "{semantic.color.status.neutral.border-color}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.status.neutral.text-color}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.status.neutral.text-color}",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "{color.neutrals.transparent}",
+          "type": "color"
+        }
+      }
+    },
+    "borderless": {
+      "info": {
+        "border-color": {
+          "value": "{color.neutrals.transparent}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.status.info.text-color}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.status.info.text-color}",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "{color.neutrals.transparent}",
+          "type": "color"
+        }
+      },
+      "sucess": {
+        "border-color": {
+          "value": "{color.neutrals.transparent}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.status.success.text-color}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.status.success.text-color}",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "{color.neutrals.transparent}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "border-color": {
+          "value": "{color.neutrals.transparent}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.status.warning.text-color}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.status.warning.text-color}",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "{color.neutrals.transparent}",
+          "type": "color"
+        }
+      },
+      "error": {
+        "border-color": {
+          "value": "{color.neutrals.transparent}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.status.error.text-color}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.status.error.text-color}",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "{color.neutrals.transparent}",
+          "type": "color"
+        }
+      },
+      "neutral": {
+        "border-color": {
+          "value": "{color.neutrals.transparent}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.status.neutral.text-color}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.status.neutral.text-color}",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "{color.neutrals.transparent}",
+          "type": "color"
+        }
+      }
+    },
+    "s": {
+      "text-size": {
+        "value": "{semantic.font-size.status.s}",
+        "type": "fontSizes"
+      },
+      "height": {
+        "value": "{semantic.sizing.status.s.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{semantic.sizing.status.s.icon-size}",
+        "type": "sizing"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.status.small.padding-right}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.status.small.padding-left}",
+        "type": "spacing"
+      }
+    },
+    "m": {
+      "text-size": {
+        "value": "{semantic.font-size.status.m}",
+        "type": "fontSizes"
+      },
+      "height": {
+        "value": "{semantic.sizing.status.m.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{semantic.sizing.status.m.icon-size}",
+        "type": "sizing"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.status.medium.padding-right}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.status.medium.padding-left}",
+        "type": "spacing"
+      }
+    },
+    "l": {
+      "text-size": {
+        "value": "{semantic.font-size.status.l}",
+        "type": "fontSizes"
+      },
+      "height": {
+        "value": "{semantic.sizing.status.l.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{semantic.sizing.status.l.icon-size}",
+        "type": "sizing"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.status.large.padding-right}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.status.large.padding-left}",
+        "type": "spacing"
+      }
+    },
+    "xl": {
+      "text-size": {
+        "value": "{semantic.font-size.status.xl}",
+        "type": "fontSizes"
+      },
+      "height": {
+        "value": "{semantic.sizing.status.xl.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{semantic.sizing.status.xl.icon-size}",
+        "type": "sizing"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.status.extra-large.padding-right}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.status.extra-large.padding-left}",
+        "type": "spacing"
+      }
+    }
+  }
+}

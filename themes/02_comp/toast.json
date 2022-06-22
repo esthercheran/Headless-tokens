@@ -1,0 +1,94 @@
+{
+  "tag": {
+    "neutral": {
+      "border-color": {
+        "value": "{semantic.color.feedback.neutral.border-color}",
+        "type": "color"
+      },
+      "background-color": {
+        "value": "{semantic.color.feedback.neutral.background-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.feedback.neutral.icon-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.typography.default}",
+        "type": "color"
+      }
+    },
+    "info": {
+      "background-color": {
+        "value": "{semantic.color.feedback.info.background-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.feedback.info.icon-color}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.feedback.info.border-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.typography.default}",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "border-color": {
+        "value": "{semantic.color.feedback.warning.border-color}",
+        "type": "color"
+      },
+      "background-color": {
+        "value": "{semantic.color.feedback.warning.background-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.feedback.warning.icon-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.typography.default}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "border-color": {
+        "value": "{semantic.color.feedback.success.border-color}",
+        "type": "color"
+      },
+      "background-color": {
+        "value": "{semantic.color.feedback.success.background-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.feedback.success.icon-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.typography.default}",
+        "type": "color"
+      }
+    },
+    "error": {
+      "border-color": {
+        "value": "{semantic.color.feedback.error.border-color}",
+        "type": "color"
+      },
+      "background-color": {
+        "value": "{semantic.color.feedback.error.background-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.feedback.error.icon-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.typography.default}",
+        "type": "color"
+      }
+    }
+  }
+}
