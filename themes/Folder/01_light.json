@@ -1,0 +1,196 @@
+{
+  "font-family": {
+    "serif": {
+      "value": "Satoshi Variable",
+      "type": "fontFamilies"
+    },
+    "sans-serif": {
+      "value": "Satoshi Variable",
+      "type": "fontFamilies"
+    },
+    "mono": {
+      "value": "Satoshi Variable",
+      "type": "fontFamilies"
+    }
+  },
+  "font-weight": {
+    "semiBold": {
+      "value": "Bold",
+      "type": "fontWeights",
+      "default": "600"
+    }
+  },
+  "semantic": {
+    "fg": {
+      "default": {
+        "value": "{color.slate.700}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.slate.500}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.slate.300}",
+        "type": "color"
+      },
+      "on-accent": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      },
+      "on-disabled": {
+        "value": "{color.slate.400}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.slate.300}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{semantic.cta.default}",
+        "type": "color"
+      },
+      "test": {
+        "value": "#980404",
+        "type": "color"
+      }
+    },
+    "bg": {
+      "surface": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.zinc.300}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.slate.100}",
+        "type": "color"
+      },
+      "canvas": {
+        "value": "{color.zinc.50}",
+        "type": "color"
+      }
+    },
+    "cta": {
+      "default": {
+        "value": "{color.blue.600}",
+        "type": "color"
+      },
+      "emphasised": {
+        "value": "{color.blue.700}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.blue.500}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.blue.200}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.gray.400}",
+        "type": "color"
+      }
+    },
+    "primary": {
+      "default": {
+        "value": "{color.slate.400}",
+        "type": "color"
+      },
+      "emphasised": {
+        "value": "{color.slate.500}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.slate.300}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.slate.200}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.gray.400}",
+        "type": "color"
+      }
+    },
+    "ui": {
+      "shadow": {
+        "value": [
+          {
+            "x": "{size.0}",
+            "y": "{size.100}",
+            "blur": "{size.200}",
+            "spread": "0",
+            "color": "hsla(0, 0%, 0%, 0.20)",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "border-radius": {
+        "value": "100",
+        "type": "borderRadius"
+      }
+    },
+    "inputs": {
+      "background": {
+        "value": "{semantic.bg.muted}",
+        "type": "color"
+      }
+    },
+    "border-radius": {
+      "actions": {
+        "value": "{border-radius.9}",
+        "type": "borderRadius"
+      },
+      "inputs": {
+        "value": "{border-radius.9}",
+        "type": "borderRadius"
+      },
+      "ui-card": {
+        "value": "{border-radius.7}",
+        "type": "borderRadius"
+      },
+      "ui": {
+        "value": "{border-radius.9}",
+        "type": "borderRadius"
+      }
+    },
+    "border-width": {
+      "actions": {
+        "value": "{border-width.2}",
+        "type": "borderWidth"
+      },
+      "inputs": {
+        "value": "{border-width.2}",
+        "type": "borderWidth"
+      }
+    },
+    "color": {
+      "actions": {
+        "primary": {
+          "default": {
+            "text-color": {
+              "value": "{color.gray.600}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    },
+    "font-size": {
+      "typography": {
+        "heading": {
+          "d-1": {
+            "value": "{font-size.28}",
+            "type": "fontSizes"
+          }
+        }
+      }
+    }
+  }
+}

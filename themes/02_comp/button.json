@@ -643,6 +643,18 @@
     "example": {
       "value": "{size.700}",
       "type": "sizing"
+    },
+    "new": {
+      "value": "{size.100}",
+      "type": "sizing"
+    },
+    "newer": {
+      "value": "{size.400}",
+      "type": "sizing"
+    },
+    "newest": {
+      "value": "{size.1400}",
+      "type": "sizing"
     }
   }
 }

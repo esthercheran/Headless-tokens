@@ -189,6 +189,10 @@
           }
         }
       }
+    },
+    "height": {
+      "value": "{size.700}",
+      "type": "sizing"
     }
   }
 }
