@@ -1,10 +1,9 @@
 {
   "tokenSetOrder": [
-    "03_semantic",
     "Folder/01_light",
     "Folder/02_Dark",
     "Folder/file",
-    "01_core",
+    "core",
     "02_comp/alert-banner",
     "02_comp/avatar",
     "02_comp/body",
@@ -25,6 +24,7 @@
     "02_comp/tag",
     "02_comp/text-field",
     "02_comp/toast",
+    "semantic",
     "Brand-A/01_Light",
     "Brand-A/02_Dark",
     "Brand-B/01_Light",

@@ -3,7 +3,6 @@
     "id": "dfa7cbb9dcfef813ad560677a681a0790394cceb",
     "name": "Brand A dark",
     "selectedTokenSets": {
-      "01_core": "enabled",
       "02_comp/alert-banner": "enabled",
       "02_comp/avatar": "enabled",
       "02_comp/body": "enabled",
@@ -24,7 +23,6 @@
       "02_comp/tag": "enabled",
       "02_comp/text-field": "enabled",
       "02_comp/toast": "enabled",
-      "03_semantic": "enabled",
       "Brand-A/01_Light": "enabled",
       "Brand-A/02_Dark": "enabled",
       "Brand-B/01_Light": "disabled",
@@ -35,7 +33,9 @@
       "Brand-I/02_Dark": "disabled",
       "Folder/01_light": "disabled",
       "Folder/02_Dark": "disabled",
-      "Folder/file": "disabled"
+      "Folder/file": "disabled",
+      "core": "enabled",
+      "semantic": "enabled"
     },
     "$figmaStyleReferences": {}
   }
