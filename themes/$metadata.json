@@ -1,5 +1,7 @@
 {
   "tokenSetOrder": [
+    "Folder/01_light",
+    "Folder/02_Dark",
     "Folder/file",
     "01_core",
     "02_comp/alert-banner",
@@ -30,8 +32,6 @@
     "Brand-C/01_Light",
     "Brand-C/02_Dark",
     "Brand-I/01_Light",
-    "Brand-I/02_Dark",
-    "Folder/01_light",
-    "Folder/02_Dark"
+    "Brand-I/02_Dark"
   ]
 }
